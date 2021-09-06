@@ -1,6 +1,6 @@
 {
-  "name": "Nifty VisualsMarketplace",
-  "short_name": "Nifty VisualsMarketplace",
+  "name": "Nifty Visuals NFT Marketplace",
+  "short_name": "Nifty Visuals NFT Marketplace",
   "display": "standalone",
   "start_url": "./",
   "theme_color": "#002140",
